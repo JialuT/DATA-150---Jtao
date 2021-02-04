@@ -27,6 +27,7 @@
   Further customization is needed like take local context into account. 
 * Deepen collaboration
   Increase technical capacity locally. 
-  
+
+4. other
 * transparency: process all data, revealing the source code, inputs, and outputs of the algorithm
                 transparency can backfire if not implemented carefully
