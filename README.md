@@ -2,4 +2,4 @@
 
 ## Don’t forget people in the use of big data for development
 
-1. [Blumemstock Response](https://github.com/JialuT/DATA-150---Jtao/blob/main/Blumenstock%20Response.md)
+1. [Blumemstock Response](https://jialut.github.io/DATA-150---Jtao//Blumenstock%20Response.html)
