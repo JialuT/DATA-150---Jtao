@@ -14,7 +14,7 @@
 * Lack of validatioin
   1. Do not well tested and do not always generalize. 
   2. The algorithms may not remain accurate over time because the relationship between the phone use and other things can change. 
-  3. When people aware their personal data are being monitored to make decisions, they are inevitably incentivized to game the system. 
+  3. When people aware their personal data are being monitored to make decisions, they are inevitably incentivized to game the system. For example, if an instructor releases the complete source code for an algorithm grading student essays, it becomes easy for students to exploit loopholes in the code:
 * Biased algorithms 
   The most disadvantaged people tend to be the least represented in new sources of digital data
 * Lack of regulation
@@ -28,3 +28,5 @@
 * Deepen collaboration
   Increase technical capacity locally. 
   
+* transparency: process all data, revealing the source code, inputs, and outputs of the algorithm
+                transparency can backfire if not implemented carefully
