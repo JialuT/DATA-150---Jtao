@@ -1,2 +1,5 @@
 # DATA-150---Jtao
-Don’t forget people in the use of big data for development
+
+## Don’t forget people in the use of big data for development
+
+1. 
