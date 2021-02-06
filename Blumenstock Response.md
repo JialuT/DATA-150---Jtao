@@ -1,41 +1,12 @@
-1. Promise 
-* data from mobile phones have transformed consumer lending in many developing countires who use machine-learning algorithm detect the patterns and spit out credit scores for people. 
-  1. Digital credit has the potential to dramatically lower transactioni costs. 
-  2. Loans can be disbursed immediately
-  3. It is possible to extend credit to large groups of indivisuals without collateral or traditional scores.
-* Data Can be used to match resources to people living in poverty
-* Data can also be used to generate high-resolution maps of crop yields and childhood malnutrition.
-* distribute humanitarian aid
-* Analysis of people's footprints could improve public-health interventions. 
+From the rise of the digital revolution, there also rises a new way to gather data which is more efficient than ever before. In the article written by Joshua Blumenstock, the author points out the international-development problems that can be solved by using those large amounts of data. However, at the same time, the author also discusses the pitfalls we inevitably meet when using those data and the possible outcomes. With potential improvements proposed, the author sees the promising future of data science in general. From my perspective, “good intent”, “transparency”, and “balancing act” are three integrals in problem-solving in data science. 
 
-2. pitfall
-* unanticipated effects 
-  microcredit: it is unclear that whether hese lans help people. Many digital-credit customers are first-time borrowers and unclear about the terms of theloans which may lead to poverty cycles. 
-* Lack of validatioin
-  1. Do not well tested and do not always generalize. 
-  2. The algorithms may not remain accurate over time because the relationship between the phone use and other things can change. 
-  3. When people aware their personal data are being monitored to make decisions, they are inevitably incentivized to game the system. For example, if an instructor releases the complete source code for an algorithm grading student essays, it becomes easy for students to exploit loopholes in the code:
-* Biased algorithms 
-  The most disadvantaged people tend to be the least represented in new sources of digital data
-* Lack of regulation
-  Since private companies have little incentive to do anything except maximize profits, regulation is needed. However, in many develoing nations, those regulations that do exist are seldom enforced. 
-  
-3. Ways forwad
-* Validate 
-  New sources of data should complement, not replace, old ones. 
-* Customize
-  Further customization is needed like take local context into account. 
-* Deepen collaboration
-  Increase technical capacity locally. 
+After gathering data,  regulators’ job is to code and train data that can build algorithms logic and let computers teach themselves how to analyze data. It is true that with the help of powerful algorithms, various situations and complicated data can be simplified into a general problem and the most efficient suggestion can be proposed. However, it can only be a suggestion instead of a feasible solution. This is where we need good intend to play their role in data science. Just like Joshua Blumenstock mentioned in his article,  we need “customized further”, and “deepen collaboration” to take human-based factors into account. In this way, transparency for regulators is needed. This is because only by achieving a high level of transparency for data regulators can they access the source code. This made it possible for regulators to identify relationships between inputs and outcomes, spots possible biases, and gives routes into fixing problems[1], which is a process to combine good intend with the rigid algorithm.
 
-4. other
-* transparency: process all data, revealing the source code, inputs, and outputs of the algorithm
-                transparency can backfire if not implemented carefully
-                
-                
-Joshua Blumenstock states that a humbler data science could transform international development while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promise, pitfalls and ways forward Blumenstock uses as the foundation for his thesis. Additionally, consider the following statements from three of your classmates regarding this article. (1) "Good intent is not enough in data science when dealing with the problems which determine people's experiences" Anna Raymond (2) "Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results." Nira Nair (3) "In lieu of such drastic potential for promoting applications yet demoralizing hinderances, the balancing act can become difficult." Kayla Seggelke 
+There’s an example of my hometown that can well explain my point mentioned above. With the increasing demand in industry, living, and transportation based on fossil fuel, the city Taiyuan also suffers serious urban air pollution. If there’s an algorithm that can take all the factors that may lead to the local air pollution into account, the final result may suggest Taiyuan Iron & Steel Corporation, one of the largest metallurgical industry in China, needs to shut down or move outside of the city. This suggestion is definitely effective in dealing with the local air pollution issue. However, it doesn’t take “good intend” into account which may cause “unanticipated effects”, which are also discussed in the article, like the surge of the unemployment rate in the local area. 
 
-How do you respond to these ideas regarding "good intent", "transparency" and the difficult "balancing act" when considering the intersection of human development with data science?
+Just like Kayla Seggelke says, when facing a trade-off between efficiency and “good intend”, we are hard to find a balance. However, dealing with issues with data science is still the most effective way nowadays. Thus, humbler data scientists who can combine the viewpoints outside of the math are needed. 
 
-From the rise of the digital revolution, there also rise a new way to gather data which is more effci
+[1] Hosanagar, K. & Jair, V. 2018 We Need Transparency in Algorithms, But Too Much Can Backfire, Harvard Business Review
+
+
                 
