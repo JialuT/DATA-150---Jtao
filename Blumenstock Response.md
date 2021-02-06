@@ -37,5 +37,5 @@ Joshua Blumenstock states that a humbler data science could transform internatio
 
 How do you respond to these ideas regarding "good intent", "transparency" and the difficult "balancing act" when considering the intersection of human development with data science?
 
-
+From the rise of the digital revolution, there also rise a new way to gather data which is more effci
                 
