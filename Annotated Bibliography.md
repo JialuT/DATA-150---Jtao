@@ -29,7 +29,7 @@ In the comparison about Sustainable Development Goals relevant to the Three Gorg
 
 This article provides a clear comparison between outcomes and original evaluations that is helpful for me to recognize the difficulties the project managers faced and also lead me to think a deeper question that what impacts those poor performances in the social dimension have on the affected residents. Also, when compares this article with my first annotated bibliography that was written in 2003, it is interesting to find that some of the improvements and recommendations suggested by Henry C. Alberts et al. are indeed needed like focusing more on the human factor considerations.
 
-_Source 3_
+#### Source 3
 
 Heming, L., & Rees, P. (2000). Population displacement in the Three GORGES Reservoir area of the Yangtze River, central china: RELOCATION policies and MIGRANT VIEWS. International Journal of Population Geography, 6(6), 439-462. doi:10.1002/1099-1220(200011/12)6:63.0.co;2-l
 
