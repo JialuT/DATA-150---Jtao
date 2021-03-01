@@ -1,8 +1,8 @@
-Envrionmental Impact Assessment of Three Gorges Project 
+Envrionmental Impact Assessment of Three Gorges Project
 Name: Jialu Tao 
 Word Count: ~1800 
 
-##Source 1 
+## Source 1 
 
 Alberts, H. C., Alberts, R. M., Bloom, M. F., LaFlamme, A. D., & Teerikangas, S. (2004). The three Gorges Dam project from a SYSTEMS VIEWPOINT. Systems Research and Behavioral Science, 21(6), 585-602. doi:10.1002/sres.604
 
@@ -16,7 +16,7 @@ This article is well structured but has several limitations. Firstly, it was wri
 
 Through this article, my attention about TGP is brought to focus on the human factor considerations and also the distant resettlement. It is worthwhile to investigate not only the environmental impacts but also the social impacts which seem partially to be ignored. The meaning of the infrastructure is to provide development, freedom, and opportunities to the country and the public. However, in constructing the TGP, there’s an apparent trade-off need to be balanced carefully between economics and the freedom of people who would be relocated.
 
-##Source 2
+## Source 2
 
 Rouch, D. A. (2019) Role of Geographical Information Systems in Promoting Sustainable Agriculture, Working Paper No. 8, Clarendon Policy & Strategy Group, Melbourne, Australia. 
 
@@ -29,7 +29,7 @@ In the comparison about Sustainable Development Goals relevant to the Three Gorg
 
 This article provides a clear comparison between outcomes and original evaluations that is helpful for me to recognize the difficulties the project managers faced and also lead me to think a deeper question that what impacts those poor performances in the social dimension have on the affected residents. Also, when compares this article with my first annotated bibliography that was written in 2003, it is interesting to find that some of the improvements and recommendations suggested by Henry C. Alberts et al. are indeed needed like focusing more on the human factor considerations.
 
-##Source 3
+## Source 3
 
 Heming, L., & Rees, P. (2000). Population displacement in the Three GORGES Reservoir area of the Yangtze River, central china: RELOCATION policies and MIGRANT VIEWS. International Journal of Population Geography, 6(6), 439-462. doi:10.1002/1099-1220(200011/12)6:63.0.co;2-l
 
@@ -41,7 +41,7 @@ In surveying what do migrants feel about their relocation, the authors employ a 
 
 According to this article’s analysis, it may seem that the majority of migrants can’t be better off after their relocation. Thus, besides the environmental disaster caused by the formation of the dam, those affected residents also pay the cost for the TGP. In the book, Development as Freedom, written by Amartya Sen, the author evaluates the better off of a society based on every individuals’ development and freedom. By applying this opinion into an evaluation, it may be helpful to evaluate the performance of TGP by adding up all the influences of affected people no matter positive or negative. 
 
-##Source 4
+## Source 4
 
 Xu, X., Tan, Y., & Yang, G. (2013). Environmental impact assessments of the Three Gorges project in CHINA: Issues and interventions. Earth-Science Reviews, 124, 115-125. doi:10.1016/j.earscirev.2013.05.007
 
