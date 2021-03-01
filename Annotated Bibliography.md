@@ -2,7 +2,7 @@
 ### Name: Jialu Tao 
 ### Word Count: ~1800 
 
-_Source 1_
+#### Source 1
 
 Alberts, H. C., Alberts, R. M., Bloom, M. F., LaFlamme, A. D., & Teerikangas, S. (2004). The three Gorges Dam project from a SYSTEMS VIEWPOINT. Systems Research and Behavioral Science, 21(6), 585-602. doi:10.1002/sres.604
 
@@ -16,7 +16,7 @@ This article is well structured but has several limitations. Firstly, it was wri
 
 Through this article, my attention about TGP is brought to focus on the human factor considerations and also the distant resettlement. It is worthwhile to investigate not only the environmental impacts but also the social impacts which seem partially to be ignored. The meaning of the infrastructure is to provide development, freedom, and opportunities to the country and the public. However, in constructing the TGP, there’s an apparent trade-off need to be balanced carefully between economics and the freedom of people who would be relocated.
 
-_Source 2_
+#### Source 2
 
 Rouch, D. A. (2019) Role of Geographical Information Systems in Promoting Sustainable Agriculture, Working Paper No. 8, Clarendon Policy & Strategy Group, Melbourne, Australia. 
 
@@ -41,7 +41,7 @@ In surveying what do migrants feel about their relocation, the authors employ a 
 
 According to this article’s analysis, it may seem that the majority of migrants can’t be better off after their relocation. Thus, besides the environmental disaster caused by the formation of the dam, those affected residents also pay the cost for the TGP. In the book, Development as Freedom, written by Amartya Sen, the author evaluates the better off of a society based on every individuals’ development and freedom. By applying this opinion into an evaluation, it may be helpful to evaluate the performance of TGP by adding up all the influences of affected people no matter positive or negative. 
 
-_Source 4_
+#### Source 4
 
 Xu, X., Tan, Y., & Yang, G. (2013). Environmental impact assessments of the Three Gorges project in CHINA: Issues and interventions. Earth-Science Reviews, 124, 115-125. doi:10.1016/j.earscirev.2013.05.007
 
