@@ -5,4 +5,4 @@
 2. Development as Freedom [Amartya Sen Response](https://Jialut.github.io/DATA-150---Jtao//Amartya%20Sen%20Response.html)
 
 ## Formal Respons
-1. [Annotated Bibliography](...)
+1. [Annotated Bibliography](https://jialut.github.io/DATA-150---Jtao//Annotated%20Bibliography.html)
