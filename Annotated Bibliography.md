@@ -1,4 +1,4 @@
-### Envrionmental Impact Assessment of Three Gorges Project
+### Environmental Impact Assessment of Three Gorges Project
 ### Name: Jialu Tao 
 ### Word Count: ~1800 
 
