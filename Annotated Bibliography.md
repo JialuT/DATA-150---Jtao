@@ -52,3 +52,7 @@ Firstly, the authors review the reasons and improvements in the increased number
 The author concludes that even though the estimation of the official EIS report is not entirely accurate, it still provides an overall trend for potential environmental impacts of the TGP. Also, the recommendation of improvements which are to evaluate cumulative impacts and also conduct long-term environmental monitoring systems are made.
 
 According to the analysis, I find out many of the problems evaluated here is not only caused by the formation of the dam but also many other factors that already exist. Thus, when analyzing the issue of relocation, it may help to take other factors which may indirectly associate with the TPG into account, such as the original human capacity.
+
+#### Reflection 
+
+When talks about the way forwards of environmental impact assessment(EIA) for TGP, the articles all discuss the importance of using cutting-edge technology, geospatial technology. However, none of the articles above go deeper into how to apply this technology to the EIA process and how this technology can predict the future more precisely. This technology is important to research in the next assigment is becuase development of technology is an inevitable means to maximize the benefits for the public, especially for those who have to resettle in another place again and again as a result of unexpected geological hazards that don't predict in the original EIA process. 
