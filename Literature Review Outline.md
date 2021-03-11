@@ -2,33 +2,32 @@
 
 Introducing what Environmental Impact Assessment (EIA) is and its importance. 
 The limitation of the original EIA report of the Three Gorges Project (TGP). 
-What are possible way forwards for the original EIA report of TGP in respect to the geospatial technology, especially in population displacement. 
-The importance to discuss the population displacement. 
+What are the possible ways forwards for the original EIA report of TGP in respect to geospatial technology, especially in population displacement. 
+The importance of discussing the population displacement.
 
 #### Body 1 Difficulties are faced 
 
 The process of EIA. 
-Comparing with the developed countries, developing countries may exhibit several problems and difficulties in EIA process. 
+Comparing with the developed countries, developing countries may exhibit several problems and difficulties in the EIA process. 
 
 #### Body 2 Remote sensing and GIS in EIA
 
-Introducing what is remote sensing and GIS. 
+Introducing what the remote sensing and GIS are. 
 How applying these technologies can benefit and advantage the EIA process. 
 
 #### Body 3 Three Gorges Project
 
-Difficulties and problems of the EIA process in TGP in China.
-Introducing the population displacement in the three gorges reservoir area and the reasons of additional displacements that the original EIA report didn’t predict.  
+Difficulties and problems of the EIA process in TGP in China. 
+Introducing the population displacement in the three gorges reservoir area and the reasons of additional displacements that the original EIA report didn’t predict.
 
 #### Body 4 
 
-Focusing on a specific hazard or problem that leads to additional displacement, such as landslides, seismic hazard, or cropland changes. 
-Discussing how geo-special data can benefit our understanding and maybe improvements of one of the difficulties above. 
+Focusing on a specific hazard or problem that leads to additional displacements, such as landslides, seismic hazards, or cropland changes. 
+Discussing how geospatial data can benefit our understanding and maybe improvements of one of the difficulties above.
 
 #### Conclusion
 
-The benefits of applying those technologies into EIA process. 
-To better improve population displacement issue, it is needed to take other aspects into account, such as policy. 
+The benefits of applying those technologies into the EIA process. 
 
 #### Reference:
 
