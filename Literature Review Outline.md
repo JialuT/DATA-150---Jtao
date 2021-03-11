@@ -30,7 +30,7 @@ Discussing how geo-special data can benefit our understanding and maybe improvem
 The benefits of applying those technologies into EIA process. 
 To better improve population displacement issue, it is needed to take other aspects into account, such as policy. 
 
-Reference:
+#### Reference:
 
 Li, J.C. (2008). Environmental Impact Assessments in Developing Countries: An Opportunity for Greater Environmental Security?
     https://www.semanticscholar.org/paper/Environmental-Impact-Assessments-in-Developing-An-Li/82173ed5ba23c8198c21bb653464a3866ade0942
