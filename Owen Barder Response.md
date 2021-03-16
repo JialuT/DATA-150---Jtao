@@ -45,7 +45,7 @@ We are hard to engineer solutions in a complex adaptive system because the evolu
  
 #### 12.  What did Barder mean by "resist fatalism"? Who was Norman Borlaug and what is the green revolution?
 
-“Resist fatalism” means people don’t have to accept the biology evolution process in the development of a country. It is true that in biology, we have natural selection. However, it is possible to accelerate and shape the evolution of society. For For example, Norman Borlaug increased agricultural production by different techniques like hybridized seeds. This is the green revolution.  
+“Resist fatalism” means people don’t have to accept the biology evolution process in the development of a country. It is true that in biology, we have natural selection. However, it is possible to accelerate and shape the evolution of society. For example, Norman Borlaug increased agricultural production by different techniques like hybridized seeds. This is the green revolution.  
 
 #### 13.  Barder also recommended to promote innovation, embrace creative destruction and shape development. What did he mean by these recommendations?
 
