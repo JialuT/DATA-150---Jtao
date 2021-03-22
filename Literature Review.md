@@ -26,7 +26,7 @@ Leonard et al define the problems that can be solved with the availability of ne
 
 The general steps in the EIA process are designed to ensure all problems and potential linkages can be presented. To are more specific, it includes (a) screening which is done to determine whether or not a proposal should be subject to EIA (Anjali et al, 2016) (b) scoping that identify the key issues of concern at an early stage in the planning process (Ahmed & Sammy, 1987) (c) an EIA report (consideration of alternatives, identification of major impacts, and mitigation measures) (Jennifer, 2008) (d) public participation and (e) review. A visualization of this structure is presented in Figure 1.
 
-### Figure 1
+##### Figure 1
 
 Generalized EIA Process Flow-Chart
 ![image](EIA.png)
