@@ -1,4 +1,4 @@
-## How RS and GIS are contributing to our understanding of the problems in EIA. 
+## How RS and GIS contribute to our understanding of the problems in EIA
 
 ### Introduction 
 
