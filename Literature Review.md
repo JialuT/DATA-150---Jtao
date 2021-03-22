@@ -28,5 +28,6 @@ The general steps in the EIA process are designed to ensure all problems and pot
 
 ### Figure 1
 
-Generalized EIA Process Flow-Chart![image](https://user-images.githubusercontent.com/78135581/111930940-0c205c00-8af5-11eb-933b-1838aef83594.png)
+Generalized EIA Process Flow-Chart
+![image](EIA.png)
 
