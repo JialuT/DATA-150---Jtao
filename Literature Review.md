@@ -60,3 +60,36 @@ The study conducted by Zhang et al (2012) is an example of post-assessment for E
 
 This literature review identifies the general problems in the EIA process and how the emergence of new technologies can solve one type of problem discussed above. Three Gorges Project is discussed as an example of how remote sensing is used in post-assessment that provides a holistic and objective understanding of underestimation in population resettlement for the initial EIA report. Most of the research papers I found only discuss the advantage of using remote sensing and GIS technology but avoid the potential drawbacks and the way further for better integrating these techniques into the EIA process. Besides the technology, other factors that lead to the underestimation of resettlement population still needs to be discussed.  
 
+### References
+
+Ahmad, Y J. and Sammy, GK. (1987). Guidelines to Environmental Impact Assessment in Developing      Countries‖, UNEP Regional Seas Reports and studies no. 85, UNEP. 
+
+Cernea, M., 2008. Compensation and Investment in Resettlement: Theory, Practice, Pit- falls, and Needed Policy Reform. In: Cernea, M., Mathur, H.M. (Eds.), Can Compensation Prevent Impoverishment? Oxford University Press, New Delhi, pp. 147–179. 
+
+Chen GJ, Xu Q, Du RY. 1995. Sanxia Gongcheng dui shengtai yu huanjing de yingxiang ji duice yanjiu (Impact of the TGP on environment and Solution). Science Pres: Beijing, China. 
+
+Cheryl K. Contant, Lyna L. Wiggins (1991). Defining and analyzing cumulative environmental impacts, Environmental Impact Assessment Review, Volume 11, Issue 4, Pages 297-309, ISSN 0195-9255, https://doi.org/10.1016/0195-9255(91)90003-3.
+
+Heming, L., & Rees, P. (2000). Population displacement in the Three GORGES Reservoir area of the Yangtze River, central china: RELOCATION policies and MIGRANT VIEWS. International Journal of Population Geography, 6(6), 439-462. doi:10.1002/1099-1220(200011/12)6:63.0.co;2-l
+
+Hironaka, Ann. 2002. The globalization of environmental protection: The case of environmental impact assessment. International Journal of Comparative Sociology 43 (1): 65–79. 
+
+Lei, Z., Bingfang, W., Liang, Z., & Peng, W. (2012). Patterns and driving forces of cropland changes in the Three Gorges area, china. Regional Environmental Change, 12(4), 765-776. doi:10.1007/s10113-012-0291-8
+
+Li, J.C. (2008). Environmental Impact Assessments in Developing Countries: An Opportunity for Greater Environmental Security?
+https://www.semanticscholar.org/paper/Environmental-Impact-Assessments-in-Developing-An-Li/82173ed5ba23c8198c21bb653464a3866ade0942
+
+Ortolano, L., & Shepherd, A. (1995). Environmental impact assessment: Challenges and opportunities. Impact Assessment, 13(1), 3-30. doi:10.1080/07349165.1995.9726076
+
+REG (Resettlement Expert Group of the TGP) 1988. Sanxia gongcheng yimin xiangmu kexingxing yanjiu baogo (Feasibility Report on Resettlement Scheme of the TGP). Water Conservancy Press: Beijing, China. 
+
+Rouch, D. A. (2019) Role of Geographical Information Systems in Promoting Sustainable Agriculture, Working Paper No. 8, Clarendon Policy & Strategy Group, Melbourne 
+
+Roudgarmi, Pezhman & Khorasani, Nematollah & Monavari, Seyed & Nouri, J Nouri (2008). Alternatives evaluation in EIA by spatial multi-criteria evaluation technique. Journal of Food, Agriculture and Environment. 
+https://www.researchgate.net/publication/267382455_Alternatives_evaluation_in_EIA_by_spatial_multi-criteria_evaluation_technique
+
+United Nations Environmental Program (UNEP), 2007. Dams and Development: Relevant Practices for Improved Decision-Making. Progress Press Ltd., Malta (192 pp.). 
+
+Vivek Kumar Tiwari, A. V. A. K. (2016). Role of Remote Sensing and Geographical Information System in Environmental Impact Assessment of Developmental Projects for Environmental Management. International Journal of Scientific Research and Management, 4(9). 
+
+
