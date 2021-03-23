@@ -1,5 +1,8 @@
 ## How RS and GIS contribute to our understanding of the problems in EIA
 
+### Jialu Tao 
+### Word Count(without references): ~ 2100
+
 ### Introduction 
 
 The Environmental Impact assessment (EIA) is a decision-making tool intended to inform development decisions by mandating a consideration of alternatives and ways to prevent, mitigate, and control potential negative environmental and social impacts (Jennifer, 2008). It was originated in the United States in the late 1960s when people realized some significant environmental problems in the United States resulted from actions of conducting infrastructures itself. The scope of the term “environment” is broader than just biophysical environment. EIAs were meant to include all non-monetary impacts (i.e., impacts not included in a benefit-cost analysis) (Leonard & Anne, 1995). In other words, the focus is not just on scientific studies or environmental impact statements, it is on improving decisions. With the availability of the cutting-edge technology, EIA process has been improved. This literature review begins by discussing the challenges in EIA process and then describes how geospatial technology improves it especially. Subsequently, a case study of Three Gorges Project (TGP) in China will be discussed in detail about how remote sensing is contribute to the understanding of the population displacement.  
