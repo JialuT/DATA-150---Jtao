@@ -7,7 +7,7 @@ Two models, decision tree classifier and estimation of land production potential
 
 #### Firgure 1 
 Location map of the Three Gorges Reservoir area 
-![image](figure 1.png)
+![](figure 1.png)
 *source*: Zhange et al., 2012
 
 ### Data Sources 
@@ -20,7 +20,7 @@ Decision Tree (DT) uses a multi-stage or sequential approach to the problem of l
 
 #### Figure 2
 Framework of decision tree algorithm for cropland classification
-![image](fugure 2.png)
+![](fugure 2.png)
 *source*: Zhange et al., 2012
 
 The index of VBI, NDVI_on, NDVI_off, slope, and elevation were meaningful to the identification of cropland (Fig. 2). The primary idea of cropland retrieval was cropland identification from natural vegetation and bare areas(Zhang et al., 2012). NDVI is a vegetation index that is associated with vegetation density. It is often used to distinguish vegetation from non-vegetation features which normalize the difference between the green leaf scattering in the near-infrared to the chlorophyll absorption. In the TGRA, cultivated land is divided into dry cropland and paddy fields (Wang et al., 2020). The cropland had declined drastically from 1992 to 2007 (Table 1), with a total decrease of 59,600 hectares, accounting for 4.0% of the total area of cropland. The loss in dryland is way larger than paddy fields. This is because compared with paddy fields, soil erosion is more likely on dry cropland. After all, conservation efforts typically lack engineering measures (Wang et al., 2020). Changes in cultivated land from 1992 to 2007 typically occurred along the Yangtze River and its tributaries in TGRA, which was the region with high population density (Fig. 3).
@@ -32,19 +32,19 @@ Cropland change over the 15-year span in TRGA(ha)
 
 #### Figure 3
 Cropland change map in TGRA from 1992 to 2007 
-![image](figure 3.png)
+![](figure 3.png)
 *source*: Zhange et al., 2012
 
 ### Land Potential Productivity 
 
 Land production potential (LPP) estimation is based on the conversion of plant energy and heat. The LPP is employed in the assessment of food production capacity. It represents maximum food production potential under natural conditions. LPP: Land production potential, kg/ha; C: dry material heat the chemical burning the energy of 1g dry matter, the majority of crops average C is 4.25 kcal/g; F: utilization efficiency of sunlight energy; Q: annual solar radiation, kcal/cm^2; n: frost-free days through 1 year; f(w): ratio of precipitation to evaporation; r: annual precipitation, mm; E0: annual evaporation, mm; S1: assigned score of cropland slope; O: assigned score of soil organic matter content; Si: assigned score of soil granule; a, b, c: weight value of soil conditions (Zhang et al., 2012).  The algorithm is as follow, with the normalized score of soil conditions of S1, O, Si being assigned equally according to their content (Table 2)
 
-![image](equation 1.png)
-![image](equation 2.png) 
+![](equation 1.png)
+![](equation 2.png) 
 
 #### Table 2 
 Score assignation for soil factor evaluation
-![image](table 2.png)
+![](table 2.png)
 *source*: Zhange et al., 2012
 
 The quality of cultivated land determined grain productivity. The decrease in cropland area and changes in its spatial distribution caused land quality changes (Zhang et al., 2012). There are five degrees of cropland production potential from a low of 0-7,500 kg/ha to a high of more than 30,000 kg/ha. The loss of high-quality cropland is larger than the low-quality cropland because of the urban construction, expansion of natural vegetation cover, and dam projects, especially, TGP. TGP construction led to immediate consequences of cropland loss by reservoir inundation and indirect cropland occupation of resident resettlement (Zhang et al., 2012).
