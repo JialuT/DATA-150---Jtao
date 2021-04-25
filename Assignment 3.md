@@ -61,14 +61,24 @@ These two models, decision tree classifiers and the assessment of land productio
 ### Reference 
 
 Breiman, L. (1984). Classification and regression trees. Chapman & Hall/CRC. 
+
 Friedl, M. A., & Brodley, C. E. (1997). Decision tree classification of land cover from remotely sensed data. Remote Sensing of Environment, 61(3), 399–409. https://doi.org/10.1016/s0034-4257(97)00049-7 
+
 Gandhi, S. M., & Sarkar, B. C. (2016). In Essentials of mineral exploration and evaluation (pp. 53–79). essay, Elsevier. 
+
 Heming, L., & Rees, P. (2000). Population displacement in the Three Gorges reservoir area of the Yangtze River, central China: relocation policies and migrant views. International Journal of Population Geography, 6(6), 439–462. https://doi.org/10.1002/1099-1220(200011/12)6:6<439::aid-ijpg198>3.0.co;2-l 
+
 IFC. 2002. Handbook for preparing a resettlement action plan [Internet]. Washington (DC): International Finance Corporation.
+
 Lei, Z., Bingfang, W., Liang, Z., & Peng, W. (2012). Patterns and driving forces of cropland changes in the Three Gorges Area, China. Regional Environmental Change, 12(4), 765–776. https://doi.org/10.1007/s10113-012-0291-8 
+
 Liu, Q., Huang, C., Liu, G., & Yu, B. (2018). Comparison of CBERS-04, GF-1, and GF-2 Satellite Panchromatic Images for Mapping Quasi-Circular Vegetation Patches in the Yellow River Delta, China. Sensors, 18(8), 2733. https://doi.org/10.3390/s18082733 
+
 Pal, M., & Mather, P. M. (2003). An assessment of the effectiveness of decision tree methods for land cover classification. Remote Sensing of Environment, 86(4), 554–565. https://doi.org/10.1016/s0034-4257(03)00132-9 
+
 Robinson, S. (n.d.). Decision Trees in Python with Scikit-Learn. Stack Abuse. https://stackabuse.com/decision-trees-in-python-with-scikit-learn/. 
+
 Vanclay, F. (2017). Project-induced displacement and resettlement: from impoverishment risks to an opportunity for development? Impact Assessment and Project Appraisal, 35(1), 3–21. https://doi.org/10.1080/14615517.2017.1278671 
+
 Wang, M.-feng, Tian, F.-xia, He, X.-bin, Anjum, R., Bao, Y.-hai, & Collins, A. L. (2020). Dry cropland changes in China's Three Gorges Reservoir Region during the period 1990 to 2015. Journal of Mountain Science, 17(3), 516–527. https://doi.org/10.1007/s11629-019-5598-1 
 
