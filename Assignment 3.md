@@ -44,7 +44,7 @@ Land production potential (LPP) estimation is based on the conversion of plant e
 
 #### Table 2 
 Score assignation for soil factor evaluation
-![](table 2.png)
+![](table_2.png)
 *source*: Zhange et al., 2012
 
 The quality of cultivated land determined grain productivity. The decrease in cropland area and changes in its spatial distribution caused land quality changes (Zhang et al., 2012). There are five degrees of cropland production potential from a low of 0-7,500 kg/ha to a high of more than 30,000 kg/ha. The loss of high-quality cropland is larger than the low-quality cropland because of the urban construction, expansion of natural vegetation cover, and dam projects, especially, TGP. TGP construction led to immediate consequences of cropland loss by reservoir inundation and indirect cropland occupation of resident resettlement (Zhang et al., 2012).
