@@ -8,3 +8,4 @@ Two models, decision tree classifier and estimation of land production potential
 ### Firgure 1 
 Location map of the Three Gorges Reservoir area 
 ![imgage](figure 1.png)
+*source*: Zhange et al., 2012
