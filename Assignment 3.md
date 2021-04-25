@@ -51,7 +51,7 @@ The quality of cultivated land determined grain productivity. The decrease in cr
 
 #### Figure 4
 Cropland production potential change from 1992 to 2007
-![image](fig.4.png)
+![image](fig. 4.png)
 *source*: Zhange et al., 2012
 
 ### Conclusion 
