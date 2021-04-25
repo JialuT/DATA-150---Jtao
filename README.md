@@ -10,6 +10,6 @@
 ## Formal Respons
 1. [Annotated Bibliography](https://jialut.github.io/DATA-150---Jtao//Annotated%20Bibliography.html)
 2. [Literature Review](https://jialut.github.io/DATA-150---Jtao//Literature%20Review.html)
-3. [Assignment 3](...)
+3. [Assignment 3](https://jialut.github.io/DATA-150---Jtao//Assignment%203.html)
 
 
